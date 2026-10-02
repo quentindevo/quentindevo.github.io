@@ -16,4 +16,8 @@
 
 - Ideation and Strategy
 - Design and Planning
+    - "business capability" = "capacité métier"
 - Build and Integrate
+- Service Delivery
+- Service Consumption
+- Manage Portfolio (englobe les 5 précédents)
